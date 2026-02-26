@@ -78,8 +78,6 @@ A GUI window will open.
 ---
 
 ## 🎓 Learning Outcome
-Through this project, I learned:
-
 - How to build GUI apps using Java Swing  
 - How event handling works  
 - How to structure Java GUI programs  
